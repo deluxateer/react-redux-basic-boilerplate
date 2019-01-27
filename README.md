@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React-Redux Basic Boilerplate
 
-## Available Scripts
+React Redux boilerplate code inspired by Brad Traversy's tutorial: https://www.youtube.com/watch?v=93p3LxR9xfM
 
 In the project directory, you can run:
 
