@@ -9,6 +9,7 @@ class SampleComp1 extends Component {
       <div id="sampleId" className="sampleClass">
         <h1>React-Redux Boilerplate</h1>
         <p>This is some sample text.</p>
+        <p>Version: {React.version}</p>
       </div>
     )
   }
